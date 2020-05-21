@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is a Burger builder and ordering application build in React.js using CSS, ES6, Redux, Redux-saga, and React-Hook. Helps you stay productive by following best practices. Follows [Standard Javascript style guide](https://github.com/eslint/eslint).
+This is a Burger builder and ordering application build in React.js using ES6, Redux, Redux-saga, and React-Hook and CSS. It will Help you to stay productive by following best practices. Follows [Standard Javascript style guide](https://github.com/eslint/eslint).
 
 ### Features
 
@@ -37,7 +37,7 @@ npm test
 Lint:
 ```sh
 # Lint code with ESLint
-yarn lint
+npx lint
 ```
 
 ## Contributing
